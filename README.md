@@ -8,7 +8,7 @@ This project demonstrates Topic Modelling using Latent Dirichlet Allocation (LDA
 
 **1.Data Preprocessing:** The dataset is filtered to focus on specific products (e.g., Amazon Echo), and the text data is cleaned, tokenized, and lemmatized using spaCy.
 
-2.**LDA Model:** The LDA model is built using Gensim, where it identifies 10 topics from the processed text data.
+**2.LDA Model:** The LDA model is built using Gensim, where it identifies 10 topics from the processed text data.
 
 **3.Visualization:** The topics are visualized using pyLDAvis, providing an interactive way to explore the discovered topics and their distributions across the documents.
 
